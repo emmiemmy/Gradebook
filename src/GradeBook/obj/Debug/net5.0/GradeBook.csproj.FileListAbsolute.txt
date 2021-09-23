@@ -1,0 +1,15 @@
+/Users/emmashakespeare/tutorials_NET/gradebook/src/GradeBook/bin/Debug/net5.0/GradeBook.deps.json
+/Users/emmashakespeare/tutorials_NET/gradebook/src/GradeBook/bin/Debug/net5.0/GradeBook.runtimeconfig.json
+/Users/emmashakespeare/tutorials_NET/gradebook/src/GradeBook/bin/Debug/net5.0/GradeBook.runtimeconfig.dev.json
+/Users/emmashakespeare/tutorials_NET/gradebook/src/GradeBook/bin/Debug/net5.0/GradeBook.dll
+/Users/emmashakespeare/tutorials_NET/gradebook/src/GradeBook/bin/Debug/net5.0/ref/GradeBook.dll
+/Users/emmashakespeare/tutorials_NET/gradebook/src/GradeBook/bin/Debug/net5.0/GradeBook.pdb
+/Users/emmashakespeare/tutorials_NET/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.csproj.AssemblyReference.cache
+/Users/emmashakespeare/tutorials_NET/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emmashakespeare/tutorials_NET/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.AssemblyInfoInputs.cache
+/Users/emmashakespeare/tutorials_NET/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.AssemblyInfo.cs
+/Users/emmashakespeare/tutorials_NET/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.csproj.CoreCompileInputs.cache
+/Users/emmashakespeare/tutorials_NET/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.dll
+/Users/emmashakespeare/tutorials_NET/gradebook/src/GradeBook/obj/Debug/net5.0/ref/GradeBook.dll
+/Users/emmashakespeare/tutorials_NET/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.pdb
+/Users/emmashakespeare/tutorials_NET/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.genruntimeconfig.cache
